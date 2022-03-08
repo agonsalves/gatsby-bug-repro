@@ -16,6 +16,7 @@
   },
   "license": "0BSD",
   "dependencies": {
+    "formik": "^2.2.9",
     "gatsby": "^4.9.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
